@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+}
+#heading{
+  font-size: large; 
+padding-right: 650px;
+padding-left: 50px;
+padding-top: 100px;
+padding-bottom: 150px;
+
+}
+#h1{
+    font-family: 'Rubik Vinyl', cursive;
+    font-size: larger;
+}
+#h2{
+    font-family: 'Dancing Script', cursive;
+}
+#regist{
+    background-color: blue;
+}

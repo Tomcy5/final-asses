@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+} 
+ 
+ #submit{
+    background-color: blue;
+}
+.whole{
+    font-size: large;
+    font-family: 'Rubik Vinyl', cursive;
+    color: cyan;
+    padding-left: 400px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 100px;
+}
